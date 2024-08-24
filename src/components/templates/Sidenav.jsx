@@ -34,7 +34,7 @@ function Sidenav() {
             <i class="mr-2 ri-file-info-fill"></i>About
         </Link>
         <Link className='hover:bg-[#4ff7a3] hover:text-white duration-300 rounded-lg p-5'>
-            <i class="mr-2 ri-phone-fill"></i>Contact
+            <i class="mr-2 ri-phone-fill"></i>Contact Us
         </Link>
       </nav>
     </div>
